@@ -18,9 +18,9 @@ class  DriverServiceImplTest {
     @BeforeEach
     void setUp(){
         registerDriverRequest = new RegisterDriverRequest();
-        registerDriverRequest.setEmail("@Tomiwa");
-        registerDriverRequest.setName("Akinsanya");
-        registerDriverRequest.setPassword("tommy");
+        registerDriverRequest.setEmail("@Og");
+        registerDriverRequest.setName("vendor");
+        registerDriverRequest.setPassword("myguy");
     }
 
 //    @Test

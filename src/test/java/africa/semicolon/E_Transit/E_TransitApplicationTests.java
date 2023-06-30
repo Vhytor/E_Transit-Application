@@ -9,7 +9,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 //import java.sql.SQLException;
 
 @SpringBootTest
-class UberDeluxeApplicationTests {
+class E_TransitApplicationTests {
 
 	@Test
 	void contextLoads() {

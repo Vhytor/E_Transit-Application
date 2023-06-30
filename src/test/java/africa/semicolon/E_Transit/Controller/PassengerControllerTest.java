@@ -37,8 +37,8 @@ class PassengerControllerTest {
     public void testRegisterPassenger() throws Exception {
         RegisterPassengerRequest request =
         RegisterPassengerRequest.builder()
-                        .name("Daniel")
-                        .email("dan20")
+                        .name("Israel")
+                        .email("is20")
                         .password("tom20")
                         .build();
 
