@@ -14,8 +14,8 @@ import java.util.List;
 @AllArgsConstructor
 @NoArgsConstructor
 public class EmailNotificationRequest {
-    private final Sender sender = new Sender("uber_deluxe","noreply@uberdeluxe.net");
+    private final Sender sender = new Sender("e_transit","noreply@etransit.net");
     private List<Recipient> to = new ArrayList<>();
-    private final String subject = "Welcome to uber_deluxe";
+    private final String subject = "Welcome to e_transit";
     private  String htmlContent;
 }

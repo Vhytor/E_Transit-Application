@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 //@ComponentScan(basePackages = {"africa.semicolon.uberdeluxe.cloud"})
-public class UberDeluxeApplication {
+public class E_TransitApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UberDeluxeApplication.class, args);
+		SpringApplication.run(E_TransitApplication.class, args);
 	}
 
 }
